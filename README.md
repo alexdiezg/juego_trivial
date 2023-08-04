@@ -1,3 +1,4 @@
-# juego_trivial
+# Trivial_game
+
 Welcome to my personal game of Trivial!
 
