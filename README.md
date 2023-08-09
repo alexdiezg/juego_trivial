@@ -1,2 +1,4 @@
-# juego_trivial
-Segundo intento
+# Trivial_game
+
+Welcome to my personal game of Trivial!
+
