@@ -4,4 +4,18 @@ from class_tarjeta import *
 
 Ralph = Card("HOla","Caracola","Como molas")
 
-Ralph.userInput()
+def userInput():
+    ans = input("Answer: ")
+    try:
+        str(ans)
+        ans.strip().lower()
+        #print(ans)
+        if ans == Ralph.answer():
+            print("Correct!")
+        else:
+            print("wrong")
+    except:
+        print("Please enter a valid answer!")
+    
+userInput()
+

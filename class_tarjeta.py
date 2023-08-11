@@ -11,6 +11,7 @@ class Card:
         #print(question)
 
 # Create a new file for the code below. That shouldn't be part of the class, it should be part either of the main code or a different class.
+"""
 
     def userInput(self):
         ans = input("Answer: ")
@@ -24,3 +25,5 @@ class Card:
             print("Correct!")
         else:
             print("wrong")
+
+"""
