@@ -2,7 +2,7 @@
 
 class AnsException(Exception):
     pass
-
+@classmethod
 class Card:
     def __init__(self, question: str, answer, category):
         self.question = question
