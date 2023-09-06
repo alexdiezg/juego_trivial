@@ -1,6 +1,6 @@
 # This is going to be the source code for the game
 
-from class_tarjeta import *
+from tarjeta import *
 
 Ralph = Card("Hola","Caracola","Como molas")
 
